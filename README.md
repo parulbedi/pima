@@ -3,6 +3,6 @@ In this I will try to develop a Machine Learning Model using a classic data samp
 
 - 👋 Hi, I’m @parulbedi
 - 👀 I’m interested in:  print ("data Analytics")
-- 🌱 I’m currently learning: [Python], [PowerBI],'&', [Tableau]
+- 🌱 I’m currently learning: [Python], [PowerBI], '&', [Tableau]
 - 💞️ I’m looking to collaborate on: [Data_analysis], 'and', [ETL]
 - 📫 You can reach me : [https://twitter.com/parulbedi25], [https://www.instagram.com/parulbedi]
